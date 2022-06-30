@@ -4,8 +4,7 @@
     "private": true,
     "engines": {
         "node": "16.15.0",
-        "npm": "6.14.17",
-        "react-router-dom": "^5.3.3"
+        "npm": "6.14.17"
     },
     "dependencies": {
         "@date-io/date-fns": "^2.14.0",
@@ -31,14 +30,15 @@
         "react-toastify": "^9.0.4",
         "redux": "^4.2.0",
         "redux-thunk": "^2.4.1",
-        "web-vitals": "^2.1.4"
+        "web-vitals": "^2.1.4",
+        "react-router-dom": "^5.3.3"
     },
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "heroku-postbuild": "ng build --prod"
+        "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
     },
     "eslintConfig": {
         "extends": [
