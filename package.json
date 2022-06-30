@@ -2,6 +2,9 @@
     "name": "indonesiaku",
     "version": "0.1.0",
     "private": true,
+    "engines": {
+        "node": "16.15.0"
+    },
     "dependencies": {
         "@date-io/date-fns": "^2.14.0",
         "@fortawesome/fontawesome-svg-core": "^6.1.1",
