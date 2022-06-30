@@ -3,7 +3,8 @@
     "version": "0.1.0",
     "private": true,
     "engines": {
-        "node": "16.15.0"
+        "node": "16.15.0",
+        "npm": "6.14.17"
     },
     "dependencies": {
         "@date-io/date-fns": "^2.14.0",
@@ -36,7 +37,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "heroku-prebuild": "npm install --dev"
+        "heroku-postbuild": "ng build --prod"
     },
     "eslintConfig": {
         "extends": [
