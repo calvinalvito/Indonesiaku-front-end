@@ -1,0 +1,63 @@
+.hero-staycasion {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(70, 70, 70, 0.5)), url('../images/hero/hero-staycasion.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 667px;
+    color: white;
+    margin-bottom: 80px;
+}
+
+.hero-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding-left: 2em;
+    margin-left: 3.5em;
+}
+
+.text-title {
+    font-size: 48px;
+    color: white;
+}
+
+.text-title span {
+    color: #5F7161;
+}
+
+.titleName {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    color: #FFE69A;
+}
+
+.titleWelcome {
+    width: 600px;
+    height: 144px;
+    left: 123px;
+    top: 217px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.text-subtitle {
+    width: 400px;
+    color: #B0B0B0;
+    height: 96px;
+    left: 125px;
+    top: 381px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    display: flex;
+    letter-spacing: 0.03em;
+}

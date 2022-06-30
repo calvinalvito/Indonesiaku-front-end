@@ -1,0 +1,74 @@
+.hero-section {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	height: 667px;
+	color: white;
+}
+
+.hero-text {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.header-text {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 34px;
+	font-feature-settings: 'liga' off;
+	color: #fff;
+}
+
+.title {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 2.5rem;
+	/* identical to box height */
+	font-feature-settings: 'liga' off;
+	color: #5F7161;
+}
+
+.title2 {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 2rem;
+	/* identical to box height */
+	font-feature-settings: 'liga' off;
+
+	color: #5F7161;
+}
+
+.konten-intro,
+.description {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 1.3rem;
+	line-height: 30px;
+	text-align: justify;
+	font-feature-settings: 'liga' off;
+	color: rgba(51, 51, 51, 0.75);
+}
+
+.nama-destinasi {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 1.5rem;
+	/* identical to box height */
+	font-feature-settings: 'liga' off;
+
+	color: #5F7161;
+}
+
+.img-wisata {
+	width: -webkit-fill-available;
+}

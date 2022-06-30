@@ -1,0 +1,10 @@
+.btn-to-top {
+    position: fixed;
+    bottom: 40px;
+    left: 89%;
+    height: 20px;
+    font-size: 1rem;
+    z-index: 1;
+    cursor: pointer;
+    border-radius: 50px;
+}

@@ -1,0 +1,376 @@
+{
+    "destinations": [{
+            "id": 1,
+            "city": "Jakarta",
+            "hero": "jakarta.png",
+            "tag": "#The Island of Gods",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Daftar wisata di Bali yang wajib dikunjungi",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1D2VKs95m8eoywScEVrEW0mKhXZcW2hA&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pantai Kuta",
+                    "img_folder": "bali",
+                    "picture": "kuta.png",
+                    "description": "<p>Objek wisata pantai Kuta akan selalu masuk dalam daftar tempat wisata di kunjungi di pulau Bali bagi wisatawan yang pertama kali liburan ke Bali.Ada beberapa hal utama yang membuat pantai Kuta ramai mendapat kunjungan wisatawan.Seperti, menawarkan pantai pasir putih dengan bentangan garis pantai sangat panjang, serta pemandangan sunset.</p><p>Kemudian, ombak di pantai Kuta lumayan besar dan cocok untuk aktivitas selancar pemula.Jika anda ingin berenang bersama anak - anak, maka anak anda harus selalu dalam pengawasan orang dewasa. </p><p> Aktivitas utama wisatawan saat liburan ke pantai Kuta adalah duduk santai di tepi pantai, berenang, jalan - jalan, dan melihat pemandangan sunset.Karena tingginya minat wisatawan liburan ke pantai Kuta, maka hampir setiap hari jalan raya sekitar pantai Kuta akan terjadi kemacetan. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Uluwatu",
+                    "img_folder": "bali",
+                    "picture": "uluwatu.png",
+                    "description": "<p>Pura yang terletak di ujung barat daya pulau Bali di atas anjungan batu karang yang terjal dan tinggi serta menjorok ke laut ini merupakan Pura Sad Kayangan yang dipercaya oleh orang Hindu sebagai penyangga dari 9 mata angin. </p> <p> Pura ini pada mulanya digunakan menjadi tempat memuja seorang pendeta suci dari abad ke - 11 bernama Empu Kuturan.Ia menurunkan ajaran Desa Adat dengan segala aturannya.Pura ini juga dipakai untuk memuja pendeta suci berikutnya, yaitu Dang Hyang Nirartha, yang datang ke Bali pada akhir tahun 1550 dan mengakhiri perjalanan sucinya dengan apa yang dinamakan Moksa atau Ngeluhur di tempat ini.Kata inilah yang menjadi asal nama Pura Luhur Uluwatu. </p> <p> Pura Uluwatu terletak pada ketinggian 97 meter dari permukaan laut. Di depan pura terdapat hutan kecil yang disebut alas kekeran, berfungsi sebagai penyangga kesucian pura. </p> <p> Pura Uluwatu mempunyai beberapa pura pesanakan, yaitu pura yang erat kaitannya dengan pura induk.Pura pesanakan itu yaitu Pura Bajurit, Pura Pererepan, Pura Kulat, Pura Dalem Selonding dan Pura Dalem Pangleburan.Masing - masing pura ini mempunyai kaitan erat dengan Pura Uluwatu, terutama pada hari - hari piodalan - nya. Piodalan di Pura Uluwatu, Pura Bajurit, Pura Pererepan dan Pura Kulat jatuh pada Selasa Kliwon Wuku Medangsia setiap 210 hari. Manifestasi Tuhan yang dipuja di Pura Uluwatu adalah Dewa Rudra. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "city": "Bali",
+            "hero": "bali.png",
+            "tag": "#The Island of Gods",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Daftar wisata di Bali yang wajib dikunjungi",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1D2VKs95m8eoywScEVrEW0mKhXZcW2hA&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pantai Kuta",
+                    "img_folder": "bali",
+                    "picture": "kuta.png",
+                    "description": "<p>Objek wisata pantai Kuta akan selalu masuk dalam daftar tempat wisata di kunjungi di pulau Bali bagi wisatawan yang pertama kali liburan ke Bali.Ada beberapa hal utama yang membuat pantai Kuta ramai mendapat kunjungan wisatawan.Seperti, menawarkan pantai pasir putih dengan bentangan garis pantai sangat panjang, serta pemandangan sunset.</p><p>Kemudian, ombak di pantai Kuta lumayan besar dan cocok untuk aktivitas selancar pemula.Jika anda ingin berenang bersama anak - anak, maka anak anda harus selalu dalam pengawasan orang dewasa. </p><p> Aktivitas utama wisatawan saat liburan ke pantai Kuta adalah duduk santai di tepi pantai, berenang, jalan - jalan, dan melihat pemandangan sunset.Karena tingginya minat wisatawan liburan ke pantai Kuta, maka hampir setiap hari jalan raya sekitar pantai Kuta akan terjadi kemacetan. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Uluwatu",
+                    "img_folder": "bali",
+                    "picture": "uluwatu.png",
+                    "description": "<p>Pura yang terletak di ujung barat daya pulau Bali di atas anjungan batu karang yang terjal dan tinggi serta menjorok ke laut ini merupakan Pura Sad Kayangan yang dipercaya oleh orang Hindu sebagai penyangga dari 9 mata angin. </p> <p> Pura ini pada mulanya digunakan menjadi tempat memuja seorang pendeta suci dari abad ke - 11 bernama Empu Kuturan.Ia menurunkan ajaran Desa Adat dengan segala aturannya.Pura ini juga dipakai untuk memuja pendeta suci berikutnya, yaitu Dang Hyang Nirartha, yang datang ke Bali pada akhir tahun 1550 dan mengakhiri perjalanan sucinya dengan apa yang dinamakan Moksa atau Ngeluhur di tempat ini.Kata inilah yang menjadi asal nama Pura Luhur Uluwatu. </p> <p> Pura Uluwatu terletak pada ketinggian 97 meter dari permukaan laut. Di depan pura terdapat hutan kecil yang disebut alas kekeran, berfungsi sebagai penyangga kesucian pura. </p> <p> Pura Uluwatu mempunyai beberapa pura pesanakan, yaitu pura yang erat kaitannya dengan pura induk.Pura pesanakan itu yaitu Pura Bajurit, Pura Pererepan, Pura Kulat, Pura Dalem Selonding dan Pura Dalem Pangleburan.Masing - masing pura ini mempunyai kaitan erat dengan Pura Uluwatu, terutama pada hari - hari piodalan - nya. Piodalan di Pura Uluwatu, Pura Bajurit, Pura Pererepan dan Pura Kulat jatuh pada Selasa Kliwon Wuku Medangsia setiap 210 hari. Manifestasi Tuhan yang dipuja di Pura Uluwatu adalah Dewa Rudra. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pantai Nusa Dua Bali",
+                    "img_folder": "bali",
+                    "picture": "nusa_dua.png",
+                    "description": "<p> Lebih lanjut, pantai Nusa Dua di sukai wisatawan domestik untuk di kunjungi saat liburan di Bali.Penyebabnya karena pantai Nusa Dua salah satu pantai terbersih di pulau Bali.Kebersihan pantai di Nusa Dua yang selalu terjaga membuat saya menaruh pantai Nusa Dua Bali di nomer satu dalam daftar 10 pantai terindah di Bali. </p> <p> Penyebab pantai Nusa Dua sangat bersih, karena di sepanjang bibir pantai Nusa Dua terdapat hotel - hotel berbintang lima dan selalu ada petugas kebersihan yang membersihkan pantai. </p> <p> Di dalam area kawasan ITDC Nusa Dua terdapat tiga pantai pasir putih. Yaitu, Pantai Samuh, pantai Geger dan pantai Mengiat Nusa Dua.ketiga pantai ini lebih cocok untuk berenang dan aman untuk anak - anak bermain di pinggir pantai.Karena gelombang ombak yang kecil, membuat semua pantai di Nusa Dua sangat cocok untuk wisata pantai bersama keluarga dan anak - anak di Bali. </p> <p> Selain itu, garis pantai kawasan Nusa Dua menghadap ke timur; Oleh karena itu, semua kawasan pantai Nusa Dua tempat terbaik untuk melihat matahari terbit di Bali. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "5",
+                    "name": "Pantai Sanur Bali",
+                    "img_folder": "bali",
+                    "picture": "sanur.png",
+                    "description": "<p>Pantai Sanur adalah pantai yang dikenal dengan sebutan Sunrise atau matahari terbit.Mengapa begitu ? karena saat di pagi hari, mata ini sangat dimanjakan dengan leluasa melihat proses bangunnya sang Surya. </p> <p>Ada begitu banyak daya tarik wisata di tempat ini karena tempat ini tak hanya menawarkan keindahan pemandangan alam pantai yang bersih dengan hamparan pasir putihnya yang lembut.Tetapi juga ombaknya yang tenang cocok untuk aktivitas watersport seperti kayaking, seawalker, scuba diving, ataupun snorkeling. </p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "city": "Yogyakarta",
+            "hero": "jogja.png",
+            "tag": "#Jogja The Neverending Asia",
+            "intro1": "Bersama dengan kota sahabatnya Surakarta (Solo), Yogyakarta adalah asal mula peradaban di Tanah Jawa. Kota ini pernah menjadi singgasana yang menghasilkan Candi Borobudur and Prambanan yang begitu megah pada abad ke-8 dan ke-9 serta tempat berkuasanya kerajaan Mataram pada abad ke-16 dan ke-17.",
+            "title2": "Kenapa Yogyakarta Wajib Untuk Dikunjungi?",
+            "intro2": "Kota dengan semboyan Hamemayu Hayuning Bawana ini memang menarik untuk dikunjungi. Di sini ada banyak peninggalan sejarah dan kebudayaan yang indah.Yogyakarta adalah salah satu tujuan wisata utama di Pulau Jawa.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Jalan Malioboro",
+                    "img_folder": "jogja",
+                    "picture": "malioboro.png",
+                    "description": "<p>Jalan Malioboro adalah nama salah satu jalan dari tiga jalan di Kota Yogyakarta yang membentang dari Tugu Yogyakarta hingga ke perempatan Kantor Pos Yogyakarta. Secara keseluruhan terdiri dari Jalan Pangeran Mangkubumi, Jalan Malioboro dan Jalan Jend. A. Yani. Jalan ini merupakan poros Garis Imajiner Kraton Yogyakarta.</p>",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Candi Prambanan",
+                    "img_folder": "jogja",
+                    "picture": "prambanan.png",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit voluptatibus placeat porro, ea culpa excepturi numquam voluptatem ullam voluptatum soluta unde totam odit enim nemo quae aperiam. Libero, culpa aspernatur.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pantai Parangtritis",
+                    "img_folder": "jogja",
+                    "picture": "parangtritis.png",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit voluptatibus placeat porro, ea culpa excepturi numquam voluptatem ullam voluptatum soluta unde totam odit enim nemo quae aperiam. Libero, culpa aspernatur.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pantai Wediombo",
+                    "img_folder": "jogja",
+                    "picture": "wediombo.png",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit voluptatibus placeat porro, ea culpa excepturi numquam voluptatem ullam voluptatum soluta unde totam odit enim nemo quae aperiam. Libero, culpa aspernatur.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "city": "Semarang",
+            "hero": "semarang.png",
+            "tag": "#The Port of Java",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Rekomendasi Tempat Wisata yang Instagramable ",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "city": "Lombok",
+            "hero": "lombok.png",
+            "tag": "#The Port of Java",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Rekomendasi Tempat Wisata yang Instagramable ",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "city": "NTT",
+            "hero": "bali.png",
+            "tag": "#The Island of Gods",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Rekomendasi Tempat Wisata yang Instagramable ",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "city": "Bandung",
+			"hero": "bandung.png",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Rekomendasi Tempat Wisata yang Instagramable ",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "city": "Malang",
+            "intro1": "Siapa pun tak ada yang bisa menyangkal keindahan yang ditawarkan Pulau Dewata. Baru-baru ini, Bali didapuk menjadi destinasi paling populer di dunia versi Tripadvisor Travellers’ Choice tahun 2021. Tentu saja, bentangan alamnya yang indah berpadu sempurna dengan kearifan lokalnya yang istimewa menjadikan Bali sebagai destinasi #DiIndonesiaAja yang patut Sobat kunjungi setidaknya sekali seumur hidup!",
+            "title2": "Rekomendasi Tempat Wisata yang Instagramable ",
+            "intro2": "Ini merupakan rekomendasi wisata yang wajib anda ditangi jika di Bali dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke pulau Bali.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Pura Tanah Lot",
+                    "img_folder": "bali",
+                    "picture": "tanah_lot.png",
+                    "description": "Nomer 1 dalalam daftar tempat wisata untuk dikunjungi Bali adalah pura Tanah Lot Bali. Selanjutnya, Tanah Lot jika diterjemahkan ke bahasa Indonesia artinya daratan di tengah laut. Tanah berarti daratan, Lot artinya laut. Sesuai dengan namanya, saat anda liburan ke pura Tanah Lot, anda akan menemukan pura yang berada di atas batu karang besar dengan latar belakang laut selatan.Batu karang besar ini berada di tengah laut.Kemudian, pada saat air pasang, batu karang terlihat terpisah dengan daratan. Daya tarik utama dari Tanah Lot temple terdapat pada keindahan pemandangan matahari terbenam, dengan siluet pura Tanah Lot.Berpadu dengan ombak laut selatan yang menerjang batu karang.Saat momen ini, akan terlihat banyak wisatawan yang akan mengambil foto dengan latar belangkang pura Tanah Lot.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        }
+    ]
+}

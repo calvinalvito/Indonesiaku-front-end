@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700&display=swap');
+*,
+.PageArticle {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif, monospace;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: steelblue;
+    min-width: 44px;
+    min-height: 44px;
+    /* margin: 44px; */
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0em 5em;
+    position: sticky;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.logo {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li a {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 1.3em;
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    width: fit-content;
+}
+
+.hero {
+    color: white;
+    font-size: 1em;
+    width: 100%;
+}
+
+main {
+    padding: 5%;
+    text-align: justify;
+    display: grid;
+    grid-template-columns: 2fr;
+    grid-gap: 25px;
+}
+
+.intro1 {
+    padding-top: 0;
+}
+
+.intro>h2,
+.intro1>h2 {
+    font-size: 2em;
+    text-align: left;
+    font-weight: 900;
+    color: #5F7161;
+}
+
+.destination,
+.intro {
+    margin: 6% 0%;
+}
+
+.destination>h2 {
+    font-size: 24px;
+    color: #5F7161;
+    font-weight: bold;
+}
+
+.destination>img {
+    padding: 2em 0em;
+    min-height: 80px;
+    min-width: 80%;
+    width: 100%;
+}
+
+p {
+    font-weight: 300;
+    padding: 5px;
+}
+
+iframe {
+    border-radius: 10px;
+    max-width: 30vw;
+    max-height: 23vw;
+    position: sticky;
+}
+
+div hr {
+    width: 80%;
+    align-items: center;
+}
+
+footer {
+    list-style-type: none;
+}

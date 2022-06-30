@@ -1,0 +1,194 @@
+{
+  "hero": {
+    "travelers": 80409,
+    "treasures": 882,
+    "cities": 1492
+  },
+  "mostPicked": [
+    {
+      "_id": "HotelMalang",
+      "name": "Grand Mercure",
+      "type": "Hotel",
+      "imageUrl": "/images/Malang/image-mostpicked-malang.jpg",
+      "country": "Indonesia",
+      "city": "Malang",
+      "price": "250.000",
+      "unit": "night"
+    },
+    {
+      "_id": "Four Seasons Resort Bali",
+      "name": "Four Seasons Resort Bali",
+      "type": "Hotel",
+      "imageUrl": "/images/Bali/image-mostpicked-bali.jpg",
+      "country": "Indonesia",
+      "city": "Bali",
+      "price": "300.000",
+      "unit": "night"
+    },
+    {
+      "_id": "Patuha Resort Ciwidey",
+      "name": "Patuha Resort Ciwidey",
+      "type": "Hotel",
+      "imageUrl": "/images/Bandung/image-mostpicked-bandung.jpg",
+      "country": "Indonesia",
+      "city": "Bandung",
+      "price": "500.000",
+      "unit": "night"
+    },
+    {
+      "_id": "POP! Hotel",
+      "name": "POP! Hotel",
+      "type": "Apartment",
+      "imageUrl": "/images/Solo/image-mostpicked-solo.jpg",
+      "country": "Indonesia",
+      "city": "Surakarta",
+      "price": "400.000",
+      "unit": "night"
+    },
+    {
+      "_id": "Yogyakarta Mariott Hotel",
+      "name": "Yogyakarta Mariott Hotel",
+      "type": "Apartment",
+      "imageUrl": "/images/Jogja/image-mostpicked-jogja.jpg",
+      "country": "Indonesia",
+      "city": "Jogjakarta",
+      "price": "800.000",
+      "unit": "night"
+    },
+    {
+      "_id": "The Wujil Resort",
+      "name": "The Wujil Resort",
+      "type": "Apartment",
+      "imageUrl": "/images/Semarang/image-mostpicked-semarang.jpg",
+      "country": "Indonesia",
+      "city": "Semarang",
+      "price": "700.000",
+      "unit": "night"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Paling Popular di Bandung",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Patuha Resort Ciwidey",
+          "imageUrl": "/images/Bandung/Patuha-Resort-Ciwidey.jpg",
+          "country": "Indonesia",
+          "city": "Lebak Muncang",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Mason Pine Hotel",
+          "imageUrl": "/images/Bandung/Mason-Pine-Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Pandalaran",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Tea Garden Resort",
+          "imageUrl": "/images/Bandung/Tea-Garden-Resort.jpg",
+          "country": "Indonesia",
+          "city": "Subang",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "deBraga-by-Artotel",
+          "imageUrl": "/images/Bandung/deBraga-by-Artotel.jpg",
+          "country": "Indonesia",
+          "city": "Kota Bandung",
+          "isPopular": false
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Paling Popular di Bali",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Four Seasons Resort Bali",
+          "imageUrl": "/images/Bali/Four-Seasons-Resort-Bali.jpg",
+          "country": "Indonesia",
+          "city": "Sayan",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Alila Manggis Bali",
+          "imageUrl": "/images/Bali/Alila-Manggis-Bali.jpg",
+          "country": "Indonesia",
+          "city": "Karangasem",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "The Mulia Bali",
+          "imageUrl": "/images/Bali/The-Mulia-Bali.jpg",
+          "country": "Indonesia",
+          "city": "Nusa Dua",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Ritz-Carlton Bali",
+          "imageUrl": "/images/Bali/Ritz-Carlton-Bali.jpg",
+          "country": "Indonesia",
+          "city": "Nusa Dua",
+          "isPopular": true
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Paling Popular di Yogyakarta",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Yogyakarta Mariott Hotel",
+          "imageUrl": "/images/Jogja/Yogyakarta-Mariott-Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Condong Catur",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Hyatt Regency",
+          "imageUrl": "/images/Jogja/Hyatt-Regency.jpg",
+          "country": "Indonesia",
+          "city": "Kota Jogjakarta",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Tentrem Hotel",
+          "imageUrl": "/images/Jogja/Tentrem-Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Mangkubumi",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Jambuluwuk Malioboro",
+          "imageUrl": "/images/Jogja/Jambuluwuk-Malioboro.jpg",
+          "country": "Indonesia",
+          "city": "Malioboro",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testimonial-landingpages.jpg",
+    "name": "Happy Family",
+    "rate": 4.55,
+    "content": "What a great trip with my family and I should try again next time soon ...",
+    "familyName": "Angga",
+    "familyOccupation": "Product Designer"
+  }
+}
